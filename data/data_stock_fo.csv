@@ -1,0 +1,216 @@
+,Stock,Symbol,instrument_token
+0,ABB India Limited,ABB,3329.0
+1,ACC Limited,ACC,5633.0
+2,APL Apollo Tubes Limited,APLAPOLLO,6599681.0
+3,AU Small Finance Bank Limited,AUBANK,5436929.0
+4,Aarti Industries Limited,AARTIIND,1793.0
+5,Adani Energy Solutions Limited,ADANIENSOL,2615553.0
+6,Adani Enterprises Limited,ADANIENT,6401.0
+7,Adani Green Energy Limited,ADANIGREEN,912129.0
+8,Adani Ports and Special Economic Zone Limited,ADANIPORTS,3861249.0
+9,Adani Total Gas Limited,ATGL,1552897.0
+10,Aditya Birla Capital Limited,ABCAPITAL,5533185.0
+11,Aditya Birla Fashion and Retail Limited,ABFRL,7707649.0
+12,Alkem Laboratories Limited,ALKEM,2995969.0
+13,Ambuja Cements Limited,AMBUJACEM,325121.0
+14,Angel One Limited,ANGELONE,82945.0
+15,Apollo Hospitals Enterprise Limited,APOLLOHOSP,40193.0
+16,Apollo Tyres Limited,APOLLOTYRE,41729.0
+17,Ashok Leyland Limited,ASHOKLEY,54273.0
+18,Asian Paints Limited,ASIANPAINT,60417.0
+19,Astral Limited,ASTRAL,3691009.0
+20,Aurobindo Pharma Limited,AUROPHARMA,70401.0
+21,Avenue Supermarts Limited,DMART,5097729.0
+22,Axis Bank Limited,AXISBANK,1510401.0
+23,BIRLASOFT LIMITED,BSOFT,1790465.0
+24,BSE Limited,BSE,5013761.0
+25,Bajaj Auto Limited,BAJAJ-AUTO,4267265.0
+26,Bajaj Finance Limited,BAJFINANCE,81153.0
+27,Bajaj Finserv Limited,BAJAJFINSV,4268801.0
+28,Balkrishna Industries Limited,BALKRISIND,85761.0
+29,Bandhan Bank Limited,BANDHANBNK,579329.0
+30,Bank of Baroda,BANKBARODA,1195009.0
+31,Bank of India,BANKINDIA,1214721.0
+32,Berger Paints (I) Limited,BERGEPAINT,103425.0
+33,Bharat Electronics Limited,BEL,98049.0
+34,Bharat Forge Limited,BHARATFORG,108033.0
+35,Bharat Heavy Electricals Limited,BHEL,112129.0
+36,Bharat Petroleum Corporation Limited,BPCL,134657.0
+37,Bharti Airtel Limited,BHARTIARTL,2714625.0
+38,Biocon Limited,BIOCON,2911489.0
+39,Bosch Limited,BOSCHLTD,558337.0
+40,Britannia Industries Limited,BRITANNIA,140033.0
+41,CESC Limited,CESC,160769.0
+42,CG Power and Industrial Solutions Limited,CGPOWER,194561.0
+43,Canara Bank,CANBK,2763265.0
+44,Central Depository Services (India) Limited,CDSL,5420545.0
+45,Chambal Fertilizers & Chemicals Limited,CHAMBLFERT,163073.0
+46,Cholamandalam Investment and Finance Company Limited,CHOLAFIN,175361.0
+47,Cipla Limited,CIPLA,177665.0
+48,Coal India Limited,COALINDIA,5215745.0
+49,Coforge Limited,COFORGE,2955009.0
+50,Colgate Palmolive (India) Limited,COLPAL,3876097.0
+51,Computer Age Management Services Limited,CAMS,87553.0
+52,Container Corporation of India Limited,CONCOR,1215745.0
+53,Crompton Greaves Consumer Electricals Limited,CROMPTON,4376065.0
+54,Cummins India Limited,CUMMINSIND,486657.0
+55,Cyient Limited,CYIENT,1471489.0
+56,DLF Limited,DLF,3771393.0
+57,Dabur India Limited,DABUR,197633.0
+58,Dalmia Bharat Limited,DALBHARAT,2067201.0
+59,Deepak Nitrite Limited,DEEPAKNTR,5105409.0
+60,Delhivery Limited,DELHIVERY,2457345.0
+61,Divi's Laboratories Limited,DIVISLAB,2800641.0
+62,Dixon Technologies (India) Limited,DIXON,5552641.0
+63,Dr. Reddy's Laboratories Limited,DRREDDY,225537.0
+64,Eicher Motors Limited,EICHERMOT,232961.0
+65,Escorts Kubota Limited,ESCORTS,245249.0
+66,Exide Industries Limited,EXIDEIND,173057.0
+67,FSN E-Commerce Ventures Limited,NYKAA,1675521.0
+68,GAIL (India) Limited,GAIL,1207553.0
+69,GMR AIRPORTS LIMITED,GMRAIRPORT,3463169.0
+70,Glenmark Pharmaceuticals Limited,GLENMARK,1895937.0
+71,Godrej Consumer Products Limited,GODREJCP,2585345.0
+72,Godrej Properties Limited,GODREJPROP,4576001.0
+73,Granules India Limited,GRANULES,3039233.0
+74,Grasim Industries Limited,GRASIM,315393.0
+75,HCL Technologies Limited,HCLTECH,1850625.0
+76,HDFC Asset Management Company Limited,HDFCAMC,1086465.0
+77,HDFC Bank Limited,HDFCBANK,341249.0
+78,HDFC Life Insurance Company Limited,HDFCLIFE,119553.0
+79,HFCL Limited,HFCL,5619457.0
+80,Havells India Limited,HAVELLS,2513665.0
+81,Hero MotoCorp Limited,HEROMOTOCO,345089.0
+82,Hindalco Industries Limited,HINDALCO,348929.0
+83,Hindustan Aeronautics Limited,HAL,589569.0
+84,Hindustan Copper Limited,HINDCOPPER,4592385.0
+85,Hindustan Petroleum Corporation Limited,HINDPETRO,359937.0
+86,Hindustan Unilever Limited,HINDUNILVR,356865.0
+87,Housing & Urban Development Corporation Limited,HUDCO,5331201.0
+88,ICICI Bank Limited,ICICIBANK,1270529.0
+89,ICICI Lombard General Insurance Company Limited,ICICIGI,5573121.0
+90,ICICI Prudential Life Insurance Company Limited,ICICIPRULI,4774913.0
+91,IDFC First Bank Limited,IDFCFIRSTB,2863105.0
+92,IIFL Finance Limited,IIFL,3023105.0
+93,IRB Infrastructure Developers Limited,IRB,3920129.0
+94,ITC Limited,ITC,424961.0
+95,Indian Bank,INDIANB,3663105.0
+96,Indian Energy Exchange Limited,IEX,56321.0
+97,Indian Oil Corporation Limited,IOC,415745.0
+98,Indian Railway Catering And Tourism Corporation Limited,IRCTC,3484417.0
+99,Indian Railway Finance Corporation Limited,IRFC,519425.0
+100,Indian Renewable Energy Development Agency Limited,IREDA,5186817.0
+101,Indraprastha Gas Limited,IGL,2883073.0
+102,Indus Towers Limited,INDUSTOWER,7458561.0
+103,IndusInd Bank Limited,INDUSINDBK,1346049.0
+104,Info Edge (India) Limited,NAUKRI,3520257.0
+105,Infosys Limited,INFY,408065.0
+106,InterGlobe Aviation Limited,INDIGO,2865921.0
+107,JK Cement Limited,JKCEMENT,3397121.0
+108,JSW Energy Limited,JSWENERGY,4574465.0
+109,JSW Steel Limited,JSWSTEEL,3001089.0
+110,Jindal Stainless Limited,JSL,2876417.0
+111,Jindal Steel & Power Limited,JINDALSTEL,1723649.0
+112,Jio Financial Services Limited,JIOFIN,4644609.0
+113,Jubilant Foodworks Limited,JUBLFOOD,4632577.0
+114,KEI Industries Limited,KEI,3407361.0
+115,KPIT Technologies Limited,KPITTECH,2478849.0
+116,Kalyan Jewellers India Limited,KALYANKJIL,756481.0
+117,Kotak Mahindra Bank Limited,KOTAKBANK,492033.0
+118,L&T Finance Limited,LTF,6386689.0
+119,L&T Technology Services Limited,LTTS,4752385.0
+120,LIC Housing Finance Limited,LICHSGFIN,511233.0
+121,LTIMindtree Limited,LTIM,4561409.0
+122,Larsen & Toubro Limited,LT,2939649.0
+123,Laurus Labs Limited,LAURUSLABS,4923905.0
+124,Life Insurance Corporation Of India,LICI,2426881.0
+125,Lupin Limited,LUPIN,2672641.0
+126,MRF Limited,MRF,582913.0
+127,Macrotech Developers Limited,LODHA,824321.0
+128,Mahanagar Gas Limited,MGL,4488705.0
+129,Mahindra & Mahindra Financial Services Limited,M&MFIN,3400961.0
+130,Mahindra & Mahindra Limited,M&M,519937.0
+131,Manappuram Finance Limited,MANAPPURAM,4879617.0
+132,Marico Limited,MARICO,1041153.0
+133,Maruti Suzuki India Limited,MARUTI,2815745.0
+134,Max Financial Services Limited,MFSL,548353.0
+135,Max Healthcare Institute Limited,MAXHEALTH,5728513.0
+136,MphasiS Limited,MPHASIS,1152769.0
+137,Multi Commodity Exchange of India Limited,MCX,7982337.0
+138,Muthoot Finance Limited,MUTHOOTFIN,6054401.0
+139,NBCC (India) Limited,NBCC,8042241.0
+140,NCC Limited,NCC,593665.0
+141,NHPC Limited,NHPC,4454401.0
+142,NMDC Limited,NMDC,3924993.0
+143,NTPC Limited,NTPC,2977281.0
+144,National Aluminium Company Limited,NATIONALUM,1629185.0
+145,Nestle India Limited,NESTLEIND,4598529.0
+146,Oberoi Realty Limited,OBEROIRLTY,5181953.0
+147,Oil & Natural Gas Corporation Limited,ONGC,633601.0
+148,Oil India Limited,OIL,4464129.0
+149,One 97 Communications Limited,PAYTM,1716481.0
+150,Oracle Financial Services Software Limited,OFSS,2748929.0
+151,PB Fintech Limited,POLICYBZR,1703937.0
+152,PI Industries Limited,PIIND,6191105.0
+153,Page Industries Limited,PAGEIND,3689729.0
+154,Patanjali Foods Limited,PATANJALI,4359425.0
+155,Persistent Systems Limited,PERSISTENT,4701441.0
+156,Petronet LNG Limited,PETRONET,2905857.0
+157,Pidilite Industries Limited,PIDILITIND,681985.0
+158,Piramal Enterprises Limited,PEL,617473.0
+159,Polycab India Limited,POLYCAB,2455041.0
+160,Poonawalla Fincorp Limited,POONAWALLA,2919169.0
+161,Power Finance Corporation Limited,PFC,3660545.0
+162,Power Grid Corporation of India Limited,POWERGRID,3834113.0
+163,Prestige Estates Projects Limited,PRESTIGE,5197313.0
+164,Punjab National Bank,PNB,2730497.0
+165,RBL Bank Limited,RBLBANK,4708097.0
+166,REC Limited,RECLTD,3930881.0
+167,Reliance Industries Limited,RELIANCE,738561.0
+168,SBI Cards and Payment Services Limited,SBICARD,4600577.0
+169,SBI Life Insurance Company Limited,SBILIFE,5582849.0
+170,SHREE CEMENT LIMITED,SHREECEM,794369.0
+171,SJVN Limited,SJVN,4834049.0
+172,SRF Limited,SRF,837889.0
+173,Samvardhana Motherson International Limited,MOTHERSON,1076225.0
+174,Shriram Finance Limited,SHRIRAMFIN,1102337.0
+175,Siemens Limited,SIEMENS,806401.0
+176,Solar Industries India Limited,SOLARINDS,3412993.0
+177,Sona BLW Precision Forgings Limited,SONACOMS,1199105.0
+178,State Bank of India,SBIN,779521.0
+179,Steel Authority of India Limited,SAIL,758529.0
+180,Sun Pharmaceutical Industries Limited,SUNPHARMA,857857.0
+181,Supreme Industries Limited,SUPREMEIND,860929.0
+182,Syngene International Limited,SYNGENE,2622209.0
+183,TATA CONSUMER PRODUCTS LIMITED,TATACONSUM,878593.0
+184,TITAGARH RAIL SYSTEMS LIMITED,TITAGARH,3945985.0
+185,TVS Motor Company Limited,TVSMOTOR,2170625.0
+186,Tata Chemicals Limited,TATACHEM,871681.0
+187,Tata Communications Limited,TATACOMM,952577.0
+188,Tata Consultancy Services Limited,TCS,2953217.0
+189,Tata Elxsi Limited,TATAELXSI,873217.0
+190,Tata Motors Limited,TATAMOTORS,884737.0
+191,Tata Power Company Limited,TATAPOWER,877057.0
+192,Tata Steel Limited,TATASTEEL,895745.0
+193,Tata Technologies Limited,TATATECH,5195009.0
+194,Tech Mahindra Limited,TECHM,3465729.0
+195,The Federal Bank Limited,FEDERALBNK,261889.0
+196,The Indian Hotels Company Limited,INDHOTEL,387073.0
+197,The Phoenix Mills Limited,PHOENIXLTD,3725313.0
+198,The Ramco Cements Limited,RAMCOCEM,523009.0
+199,Titan Company Limited,TITAN,897537.0
+200,Torrent Pharmaceuticals Limited,TORNTPHARM,900609.0
+201,Torrent Power Limited,TORNTPOWER,3529217.0
+202,Trent Limited,TRENT,502785.0
+203,Tube Investments of India Limited,TIINDIA,79873.0
+204,UPL Limited,UPL,2889473.0
+205,UltraTech Cement Limited,ULTRACEMCO,2952193.0
+206,Union Bank of India,UNIONBANK,2752769.0
+207,United Spirits Limited,UNITDSPR,2674433.0
+208,Varun Beverages Limited,VBL,4843777.0
+209,Vedanta Limited,VEDL,784129.0
+210,Vodafone Idea Limited,IDEA,3677697.0
+211,Voltas Limited,VOLTAS,951809.0
+212,Wipro Limited,WIPRO,969473.0
+213,Yes Bank Limited,YESBANK,3050241.0
+215,Zydus Lifesciences Limited,ZYDUSLIFE,2029825.0
